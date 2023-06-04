@@ -8,19 +8,19 @@
 ### Generating adversarial examples with elastic-net regularized boundary equilibrium generative adversarial network
 *Cong Hu, Xiao-Jun Wu, Zuo-Yong Li*, **PRL**, 2020. </br>
 <img src="figs/PRLhu4.jpg" width="600">
-#### [[Paper](https://ieeexplore.ieee.org/abstract/document/10015806)]  
+#### [[Paper](https://www.sciencedirect.com/science/article/pii/S0167865520304050)]  
 ---
 
 ### Dual Encoder-Decoder Based Generative Adversarial Networks for Disentangled Facial Representation Learning
 *CONG HU, ZHENHUA FENG, XIAOJUN WU, AND JOSEF KITTLER*, **IEEE Access**, 2020. </br>
 <img src="figs/IEEEAccesshu3.jpg" width="600">
-#### [[Paper](https://ieeexplore.ieee.org/abstract/document/10015806)] 
+#### [[Paper](https://ieeexplore.ieee.org/abstract/document/9141259)] 
 ---
 
 ### Bagging deep convolutional autoencoders trained with a mixture of real data and GAN-generated data
 *Cong Hu1, Xiao-Jun Wu, Zhen-Qiu Shu*, **KSII TIIS**, 2019. </br>
 <img src="figs/KSIITIIShu2.jpg" width="600">
-#### [[Paper](https://ieeexplore.ieee.org/abstract/document/10015806)] 
+#### [[Paper](https://itiis.org/digital-library/22290)] 
 ---
 
 ### Semi-Supervised Learning Based on GAN With Mean and Variance Feature Matching
