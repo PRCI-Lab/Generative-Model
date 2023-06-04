@@ -1,3 +1,2 @@
-# This repository introduces the works in the **Generative-Model**.
+# Generative-Model
 
-## ⭐ Works on [Generative Model](Generative Model/summary.md)
