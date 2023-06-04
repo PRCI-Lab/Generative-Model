@@ -26,5 +26,5 @@
 ### Semi-Supervised Learning Based on GAN With Mean and Variance Feature Matching
 *Cong Hu, Xiao-Jun Wu , and Josef Kittler*, **IEEE TCDS**, 2018. </br>
 <img src="figs/IEEETCDShu1.jpg" width="600">
-#### [[Paper](https://ieeexplore.ieee.org/abstract/document/10015806)]  
+#### [[Paper](https://ieeexplore.ieee.org/abstract/document/8489993/)]  
 
