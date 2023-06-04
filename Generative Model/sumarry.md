@@ -2,7 +2,7 @@
 ### COMIM-GAN: Improved Text-to-Image Generation via Condition Optimization and Mutual Information Maximization   
 *Longlong Zhou, Xiao-Jun Wu, and Tianyang Xu,* **MMM**, 2023. (**oral**) </br>
 <img src="figs/MMMzhou1.jpg" width="600">
-#### [[Paper](https://arxiv.org/abs/2208.09787)] 
+#### [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-27077-2_30)] 
 ---
 
 ### Generating adversarial examples with elastic-net regularized boundary equilibrium generative adversarial network
